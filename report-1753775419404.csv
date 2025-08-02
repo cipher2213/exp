@@ -1,0 +1,7 @@
+OrderID,Date,Customer,Status,Total
+ORD-125,7/29/2025,Ankit S.,Completed,140.00
+ORD-123,7/29/2025,Rohan K.,Completed,160.00
+ORD-122,7/29/2025,Sneha P.,Cancelled,240.00
+ORD-118,7/28/2025,Manoj D.,Completed,250.00
+ORD-111,7/26/2025,Ravi B.,Cancelled,90.00
+ORD-105,7/22/2025,Sunita G.,Completed,500.00
